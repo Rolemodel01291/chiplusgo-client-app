@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CHI+GO</string>
+    <!-- <string name="facebook_app_id">798849234400869</string>
+    <string name="fb_login_protocol_scheme">fb798849234400869</string> -->
+    <string name="facebook_app_id">1292920527772396</string>
+    <string name="fb_login_protocol_scheme">fb1292920527772396</string>
+</resources>

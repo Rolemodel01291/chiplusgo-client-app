@@ -1,0 +1,12 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/pengfeili/development/flutter
+FLUTTER_APPLICATION_PATH=/Users/pengfeili/Desktop/CHIPLUSGO/flutter_client_chiplusgo
+FLUTTER_TARGET=/Users/pengfeili/Desktop/CHIPLUSGO/flutter_client_chiplusgo/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_BUILD_NAME=2.0.8
+FLUTTER_BUILD_NUMBER=17
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/pengfeili/Desktop/CHIPLUSGO/flutter_client_chiplusgo/.dart_tool/package_config.json

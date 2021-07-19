@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>977699320680-vi8svcdd5jjk393holvvmc02a223jl62.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.977699320680-vi8svcdd5jjk393holvvmc02a223jl62</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>977699320680-3kcmv8fk55ce1jc6uveqlbskkkorjhnl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCn_vxTe5iQDncVfYDUpAoJHgJID6bJhrM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>977699320680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chiplusgo-client</string>
+	<key>PROJECT_ID</key>
+	<string>chiplusgo-95ec4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chiplusgo-95ec4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:977699320680:ios:4083988d05d61972681cdd</string>
+	<key>DATABASE_URL</key>
+	<string>https://chiplusgo-95ec4-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
