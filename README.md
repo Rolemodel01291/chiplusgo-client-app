@@ -1,7 +1,7 @@
 # Chiplusgo Flutter app
 
 ![alt text](https://github.com/Rolemodel01291/chiplusgo-client-app/blob/master/blobs/client1.png?raw=true)
-![alt text](https://github.com/Rolemodel01291/chiplusgo-client-app/blob/master/blobs/client2.png?raw=true)
+![alt text](https://github.com/Rolemodel01291/chiplusgo-client-app/blob/master/blobs/client04.png?raw=true)
 ![alt text](https://github.com/Rolemodel01291/chiplusgo-client-app/blob/master/blobs/client03.png?raw=true)
 
 Functionality of the app
