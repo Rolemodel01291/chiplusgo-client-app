@@ -1,3 +1,4 @@
+
 # Chiplusgo Flutter app
 
 ![alt text](https://github.com/Rolemodel01291/chiplusgo-business-app/blob/master/blobs/client01.png?raw=true)
@@ -19,4 +20,11 @@ Functionality of the app
 Tech stacks:
 
 Flutter, Dart, Firebase
+
+tech stack:
+
+flutter/dart/firebase
+
+
+
 
